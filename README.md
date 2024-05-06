@@ -1,3 +1,9 @@
+Hi All!!!!
+
+Here is the compilation of Open-Source resources to various Technologies. I have Just collected these info from internet and sharing to all users. All the contents are belongs to their creators only. I'm helping people to get multiple resources in a single place. Thanks all for sharing this repo to your friends. 
+
+It's just collection of useful informations for the benefit of everyone.
+
 All Youtube Learning Resources
 𝗔𝗟𝗟 𝗜𝗠𝗣𝗢𝗥𝗧𝗔𝗡𝗧 𝗟𝗜𝗡𝗞𝗦 𝗧𝗢 𝗟𝗘𝗔𝗥𝗡 𝗣𝗥𝗢𝗚𝗥𝗔𝗠𝗠𝗜𝗡𝗚 𝗢𝗡 𝗬𝗢𝗨𝗧𝗨𝗕𝗘
   
